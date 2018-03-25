@@ -1,8 +1,8 @@
 ### jenwr
 Studying
 - e-learning
-- data analysis
-- information 
+- web development
+- voice interaction
 
 To better understand
 - current events
@@ -10,9 +10,9 @@ To better understand
 - water quality
 
 Fascinated with
-- flight
-- oceans
-- mountains
+- air (powered and free flight) 
+- sea (lakes and rivers)
+- land (mountains)
 
 {% comment %} 
 ### Creating pages manually
