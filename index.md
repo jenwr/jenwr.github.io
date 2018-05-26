@@ -1,3 +1,6 @@
+// Comments do not appear on the live page. 
+// Add Alexa work. 
+
 ### jenwr
 Studying
 - e-learning
