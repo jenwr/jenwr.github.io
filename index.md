@@ -1,6 +1,3 @@
-// Comments do not appear on the live page. 
-
-
 ### jenwr
 Studying
 - e-learning
