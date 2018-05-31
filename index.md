@@ -3,6 +3,14 @@ Studying
 - web development
 - voice interaction
 
+Projects
+- Flight
+    - Early flight: Wright Brothers, Otto Lilienthal
+    - Museums: Wright Patterson, Udvar-Hazy, Museum of Flight
+    - Air shows: Oshkosh, Sun n Fun
+- Travel: National Parks
+- Natural world: wildflowers, birds
+
 {% comment %} This line and below do not show on live page. :)
 ### Creating pages manually
 If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
