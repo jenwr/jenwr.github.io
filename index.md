@@ -1,18 +1,7 @@
 ### jenwr
 Studying
-- e-learning
 - web development
 - voice interaction
-
-To better understand
-- current events
-- conservation
-- water quality
-
-Fascinated with
-- air (powered and free flight) 
-- sea (lakes and rivers)
-- land (mountains)
 
 {% comment %} This line and below do not show on live page. :)
 ### Creating pages manually
