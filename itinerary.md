@@ -12,5 +12,7 @@
 - Canyonlands National Park
 - Arches National Park
 
+# Great Smoky Mountains National Park
+
 
 
