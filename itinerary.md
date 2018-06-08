@@ -11,7 +11,11 @@ Day 3
 - Museum of History and Industry? 
 - sleep in Seattle
 Day 4
-- walk around Seattle or drive to Mt Ranier National Park
+- drive to Mt Ranier National Park
+    At 6,400 feet, Sunrise is the highest point accessible by car in Mt. Rainier National Park. There is a nominal fee to enter. There you and the kids can explore the visitor center and the surrounding subalpine trails while enjoying majestic views of Mt. Rainier and the Emmons Glacier.
+
+  From Crystal Mountain, take SR 410 east six miles to Sunrise/White River Rd. Follow Sunrise/White River roughly 14 miles as it zigzags up to Sunrise. If possible, park in Sunrise’s large upper lot next to the Sunrise Visitor Center and the Sunrise Day Lodge.
+- 
 - sleep in Tacoma
 Day 5
 - drive to Olympic National Park
