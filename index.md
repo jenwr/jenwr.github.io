@@ -9,6 +9,12 @@ Projects
     - Museums: Wright Patterson, Udvar-Hazy, Museum of Flight
     - Air shows: Oshkosh, Sun n Fun
 - Travel: National Parks
+    - Washington
+    - Utah
+    - Colorado
+    - Tennessee
+    - Montana
+    - Arizona
 - Natural world: wildflowers, birds
 
 {% comment %} This line and below do not show on live page. :)
