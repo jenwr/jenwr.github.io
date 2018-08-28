@@ -1,4 +1,12 @@
-jenwr.github.io - holding pen
-updates needed: summarize projects and add timetables 
+jenwr.github.io
 
-Startup landing page: Wildflower Extravaganza
+engineer | web developer
+
+Kite flyer, airplane builder, coder. 
+
+This is my holding pen for works in progress. 
+
+Projects 
+- Blog
+- Musician portfolio
+- Startup landing page
