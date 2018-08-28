@@ -1,9 +1,9 @@
-title: Works in Progress
-description: portfolio
+title: 
+description:
 google_analytics: 
 show_downloads: false
 
-theme: jekyll-theme-minima
+theme: jekyll-theme-cayman
 
 gems:
     - jekyll-mentions
