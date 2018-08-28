@@ -1,9 +1,7 @@
 ### jenwr.github.io
 ## engineer | developer
 
-## Kite flyer, airplane builder, web coder. 
-
-Works in progress
+#Works in progress
 
 - Blog, jenwr.github.io/blog
 - Musician portfolio, jenwr.github.io/keys
