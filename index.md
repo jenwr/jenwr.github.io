@@ -1,19 +1,11 @@
 ### jenwr
-Studying
-- web development
-- voice interaction
+## engineer | developer
 
-Projects
-- Flight
-    - Early flight: Wright Brothers, Otto Lilienthal
-    - Museums: Wright Patterson, Udvar-Hazy, Museum of Flight
-    - Air shows: Oshkosh, Sun n Fun
-- Travel: Parks
-    - Washington
-    - Utah
-    - Colorado
-    - Tennessee
-    - Arizona
-- Natural world
-    - wildflowers
-    - birds
+## Kite flyer, airplane builder, web coder. 
+
+Works in progress
+
+- Blog, jenwr.github.io/blog
+- Musician portfolio, jenwr.github.io/keys
+- Startup landing page, jenwr.github.io/startup
+
