@@ -1,4 +1,4 @@
-### Stone Soup
+# Stone Soup
 ## Contributions from the community combine to make a rich stew.  
 
 ## Alexa
