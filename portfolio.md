@@ -5,15 +5,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum qu
 
 ## Events
 
-September
-October 
-November
-December
+September  
+October   
+November  
+December  // comments, do they work with the double slash, hmmm
 
 ## Music
 
-Let it be
-Jingle Bells
+Let it be  
+Jingle Bells  
 
 ## Contact me 
 
