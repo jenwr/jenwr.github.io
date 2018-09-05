@@ -1,9 +1,6 @@
-### Jenny Roach
-## engineer | developer
+### Works in Progress
 
-#Works in progress
-
-- [Blog](../blog.md)
-- [Musician portfolio](../portfolio.md)
-- Startup landing page, [jenwr.github.io/startup](../startup.html)
-- Annuity scenarios, [jenwr.github.io/annuity](../annuity.html)
+- [Blog](../blog)
+- [Musician portfolio](../portfolio)
+- [Startup landing page](../startup.html)
+- [Annuity scenarios](../annuity.html)
