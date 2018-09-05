@@ -8,7 +8,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse interdum qu
 * September  
 * October   
 * November  
-* December  // markdown comments, they work with the double slash, hmmm.
+* December  
 
 ## Music
 
