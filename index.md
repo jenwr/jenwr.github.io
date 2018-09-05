@@ -3,9 +3,13 @@
 
 #Works in progress
 
-- Blog, ![jenwr.github.io/blog](../blog)
-- Musician portfolio, jenwr.github.io/keys, ![Stephen @ Keys](../musicportfolio)
-- Startup landing page, jenwr.github.io/startup.html, ![Startup Landing Page](../startup.html)
+- Blog, [jenwr.github.io/blog](../blog)
+- Musician portfolio, [jenwr.github.io/keys](../musicportfolio)
+- Startup landing page, [jenwr.github.io/startup](../startup.html)
+
+A [link](http://example.com).
+
+![Image](Image_icon.png)
 
 
 - Blog, ![jenwr.github.io/blog](../blog)
