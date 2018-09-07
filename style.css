@@ -1,4 +1,5 @@
 
+/* COMMENT OUT TO TEST
 .full {
     background: url(bluets.jpg);
     background: size 100%;
@@ -6,7 +7,14 @@
     width: 100%;
     height: 100%;
 }
+*/
 
+
+.full {
+    background: url(bluets.jpg);
+    background: size 100%;
+    background-repeat: no-repeat;
+}
 .top-buffer { margin-top: 10px;}
 
 .extra-buffer {margin-top: 400px;}
