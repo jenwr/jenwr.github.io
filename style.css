@@ -72,4 +72,5 @@ wow {
    */
   .mastfoot {
     color: rgba(255, 255, 255, .5);
+      padding: 2rem;
   }
