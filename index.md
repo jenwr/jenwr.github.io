@@ -3,4 +3,6 @@
 - [Blog](../blog)
 - [Musician portfolio](../portfolio)
 - [Startup landing page](../startup.html)
+- [Startup landing page - Mod 2](../covertemplatemodifieddirectly.html)
+
 - [Annuity scenarios](../annuity.html)
