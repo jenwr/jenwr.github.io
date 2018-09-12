@@ -10,14 +10,14 @@ a:hover {
 }
 
 /* Custom default button */
-/*.btn-secondary,
+.btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
   color: #fff;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: .05rem solid #fff;
-} */
+} 
 .btn {
   font-weight: 700;
   text-transform: uppercase;
