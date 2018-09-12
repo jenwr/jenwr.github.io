@@ -10,14 +10,14 @@ a:hover {
 }
 
 /* Custom default button */
-.btn-secondary,
+/*.btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #333;
+  color: #fff;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: .05rem solid #fff;
-}
+} */
 .btn {
   font-weight: 700;
   text-transform: uppercase;
@@ -29,12 +29,12 @@ a:hover {
 }
 
 .button-primary {
-  background-color: #F05F44;
-  border-color: #F05F44; }
+  background-color: #808080;
+  border-color: #808080; }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #333333;
+  border-color: #333333;
   border-width: 5px;
 }
 
@@ -91,4 +91,5 @@ body {
  */
 .mastfoot {
   color: #ffffff;
+  font-weight: 200;
 }
