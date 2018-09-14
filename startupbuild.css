@@ -48,6 +48,7 @@ body {
   background-color: #333;
   background-image: url("cementfactoryclip.jpg");
   background-size: cover;
+  font-size: 2rem;
 }
 
 
@@ -91,5 +92,5 @@ body {
  */
 .mastfoot {
   color: #ffffff;
-  font-weight: 200;
+  font-weight: 300;
 }
