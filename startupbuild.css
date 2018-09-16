@@ -19,7 +19,7 @@ a:hover {
   border: .05rem solid #fff;
 } 
 .btn {
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   border-radius: 300px;
  }
@@ -68,7 +68,7 @@ body {
  * Header
  */
 .masthead {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .masthead-brand {
@@ -91,5 +91,6 @@ body {
  * Footer
  */
 .mastfoot {
-  color: #ffffff;
+  color: #d3d3d3;
+  font-size: 1rem;
 }
