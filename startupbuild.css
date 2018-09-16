@@ -48,6 +48,7 @@ body {
   background-color: #333;
   background-image: url("cementfactoryclip.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
   font-size: 2rem;
 }
 
