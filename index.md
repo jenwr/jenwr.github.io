@@ -2,7 +2,7 @@
 
 - [Blog](../blog)
 - [Musician portfolio](../mportfolio)
-- [Scientists] (../scientists)
+- [Scientists] TBD
 
 ### ZTM Exercises
 - [Startup landing page](../startup.html)
