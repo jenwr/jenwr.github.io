@@ -1,8 +1,13 @@
 # Stone Soup
 ## Contributions from the community combine to make a rich stew.  
 
+## Apps
+
+* weather 
+* sports news, player news including notifications
+
 ## Alexa
-Publish five new skills before October 31, and earn a super skills collectible. lol
+
 * annuity estimator
 * savings estimator
 * lake level, web scraper
