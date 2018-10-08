@@ -3,6 +3,8 @@
 - [Blog](../blog)
 - [Musician portfolio](../mportfolio)
 - [Scientists] TBD
+- [Weather] TBD
+- [Lists] TBD
 
 ### ZTM Exercises
 - [Startup landing page](../startup.html)
