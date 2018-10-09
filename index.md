@@ -2,6 +2,7 @@
 
 - [Blog](../blog)
 - [Musician portfolio](../mportfolio)
+- [Flex portfolio](../flexportfolio)
 - [Scientists] TBD
 - [Weather] TBD
 - [Lists] TBD
