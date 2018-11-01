@@ -17,7 +17,7 @@
 ### ZTM Projects  
 
 - [CSS-Art](https://zero-to-mastery.github.io/css-art/) See mouse and airplane
-- [Robofriends](https://zero-to-mastery.github.io/css-art/) See mouse and airplane
+- [Robofriends](../robofriends/public/index.html)  
 
 
 
