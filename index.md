@@ -8,7 +8,7 @@
 ### ZTM Projects  
 
 - [CSS-Art](https://zero-to-mastery.github.io/CSS-Art-Hacktoberfest-Edition/) See mouse and airplane
-- [Robofriends](../robofriends)  
+- [Robofriends](../robotfriends)  
 
 ### Works in Progress
 
