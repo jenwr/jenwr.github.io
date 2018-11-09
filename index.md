@@ -1,6 +1,6 @@
 ### ZTM Exercises  
 
-- [Startup landing page - Mod 2](../startup)
+- [Startup landing page](../startup)
 - [Facebook lite](../facebook2)
 - [Shopping List](../list)
 - [Background Generator](../background-generator)
