@@ -4,17 +4,15 @@
 - [Facebook lite](../facebook2)
 - [Shopping List](../list)
 - [Background Generator](../background-generator)
+- [CSS-Art](https://zero-to-mastery.github.io/CSS-Art-Hacktoberfest-Edition/) See mouse and airplane  
 
 ### ZTM Projects  
 
-- [CSS-Art](https://zero-to-mastery.github.io/CSS-Art-Hacktoberfest-Edition/) See mouse and airplane
 - [Robofriends](../robotfriends)  
 
 ### Works in Progress
 
 - [Musician portfolio](../mportfolio)
-- [Flex portfolio](../flexportfolio)
-- [Scientists] TBD
-- [Weather] TBD
-- [Lists] TBD
+- [Flexbox photo portfolio](../flexportfolio)
+
 
