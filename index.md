@@ -14,7 +14,6 @@
 
 ### Works in Progress
 
-- [Musician portfolio](../mportfolio)
 - [Flexbox photo portfolio](../flexportfolio)
 
 
